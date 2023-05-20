@@ -4,8 +4,8 @@ body{
 
     margin:0;
     padding:0;
-    background-color: rgb(10,10,10);
-    color: rgb(240,240,240);
+    background-color: rgb(0, 82, 81);
+    color: rgb(255, 255, 255);
 
     display:flex;
     align-items: center;
@@ -30,7 +30,7 @@ header{
     width:40px;
     height:40px;
     border-radius: 20px;
-    background-color: rgb(240,240,240);
+    background-color: rgb(255, 255, 255);
 
 
 }
@@ -85,7 +85,7 @@ a{
     width:40px;
     border-radius: 20px;
     margin:8px;
-    background-color: rgb(100, 50, 168);
+    background-color: rgb(255, 255, 255);
 
 }
 .tile-share-btn svg {
@@ -105,7 +105,7 @@ a{
 }
 
 .tile:hover{
-    background-color: rgb(5, 234, 242);
+    background-color: rgb(10, 96, 99);
     transition: cubic-bezier(0.075, 0.82, 0.165, 1) 0.4;
     transform: scale(1.02);
 
